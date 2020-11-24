@@ -45,4 +45,7 @@ public class CommonConstants {
      * 短信配置key
      */
     public static final String SMS_CONFIG = "SMS_CONFIG";
+
+
+    String INDEX = "user";
 }

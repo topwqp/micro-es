@@ -1,2 +1,7 @@
 server:
   port: 15092
+spring:
+  data:
+    elasticsearch:
+        cluster-name: adminboot
+        cluster-nodes: 127.0.0.1:9300,127.0.0.1:9301,127.0.0.1:9302
